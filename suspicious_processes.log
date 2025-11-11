@@ -1,0 +1,58 @@
+2025-11-11 10:13:39,429 - ERROR - Error parsing config.json
+2025-11-11 10:13:39,429 - INFO - Starting continuous monitoring (interval: 60s)
+2025-11-11 10:13:39,429 - INFO - Starting process scan...
+2025-11-11 10:14:04,800 - INFO - Scan complete. Checked 234 processes, found 0 suspicious.
+2025-11-11 10:14:04,800 - INFO - Next scan in 60 seconds...
+2025-11-11 10:14:22,767 - INFO - 
+Monitoring stopped by user
+2025-11-11 10:14:22,768 - INFO - Total suspicious: 0
+2025-11-11 10:15:56,209 - INFO - Configuration loaded from config.json
+2025-11-11 10:15:56,209 - INFO - Starting continuous monitoring (interval: 60s)
+2025-11-11 10:15:56,209 - INFO - Starting process scan...
+2025-11-11 10:16:01,608 - INFO - 
+Monitoring stopped by user
+2025-11-11 10:16:01,609 - INFO - Total suspicious: 0
+2025-11-11 10:16:01,927 - INFO - Configuration loaded from config.json
+2025-11-11 10:16:01,927 - INFO - Starting continuous monitoring (interval: 60s)
+2025-11-11 10:16:01,927 - INFO - Starting process scan...
+2025-11-11 10:16:27,682 - INFO - Scan complete. Checked 235 processes, found 0 suspicious.
+2025-11-11 10:16:27,683 - INFO - Next scan in 60 seconds...
+2025-11-11 10:16:35,890 - INFO - 
+Monitoring stopped by user
+2025-11-11 10:16:35,891 - INFO - Total suspicious: 0
+2025-11-11 10:18:11,761 - INFO - Configuration loaded from config.json
+2025-11-11 10:18:11,762 - INFO - Starting continuous monitoring (interval: 60s)
+2025-11-11 10:18:11,762 - INFO - Starting process scan...
+2025-11-11 10:18:39,790 - INFO - Scan complete. Checked 247 processes, found 0 suspicious.
+2025-11-11 10:18:39,790 - INFO - Next scan in 60 seconds...
+2025-11-11 10:18:56,807 - INFO - 
+Monitoring stopped by user
+2025-11-11 10:18:56,808 - INFO - Total suspicious: 0
+2025-11-11 10:19:51,768 - INFO - Configuration loaded from config.json
+2025-11-11 10:19:51,768 - INFO - Starting continuous monitoring (interval: 60s)
+2025-11-11 10:19:51,769 - INFO - Starting process scan...
+2025-11-11 10:20:18,756 - INFO - Scan complete. Checked 238 processes, found 0 suspicious.
+2025-11-11 10:20:18,757 - INFO - Next scan in 60 seconds...
+2025-11-11 10:21:18,760 - INFO - Starting process scan...
+2025-11-11 10:21:21,014 - WARNING - SUSPICIOUS: chrome.exe (PID: 1372) - In blacklist
+2025-11-11 10:21:23,995 - WARNING - SUSPICIOUS: chrome.exe (PID: 2652) - In blacklist
+2025-11-11 10:21:34,263 - WARNING - SUSPICIOUS: chrome.exe (PID: 9888) - In blacklist
+2025-11-11 10:21:36,025 - WARNING - SUSPICIOUS: chrome.exe (PID: 13332) - In blacklist
+2025-11-11 10:21:39,173 - WARNING - SUSPICIOUS: chrome.exe (PID: 18320) - In blacklist
+2025-11-11 10:21:39,402 - WARNING - SUSPICIOUS: chrome.exe (PID: 19100) - In blacklist
+2025-11-11 10:21:39,950 - WARNING - SUSPICIOUS: chrome.exe (PID: 20552) - In blacklist
+2025-11-11 10:21:42,084 - WARNING - SUSPICIOUS: chrome.exe (PID: 23328) - In blacklist
+2025-11-11 10:21:45,556 - WARNING - SUSPICIOUS: chrome.exe (PID: 28136) - In blacklist
+2025-11-11 10:21:46,280 - INFO - Scan complete. Checked 247 processes, found 9 suspicious.
+2025-11-11 10:21:46,281 - INFO - Next scan in 60 seconds...
+2025-11-11 10:21:55,684 - INFO - 
+Monitoring stopped by user
+2025-11-11 10:21:55,686 - INFO - Total suspicious: 9
+2025-11-11 10:33:12,118 - INFO - Configuration loaded from config.json
+2025-11-11 10:33:12,119 - INFO - Starting process scan...
+2025-11-11 10:33:38,914 - INFO - Scan complete. Checked 236 processes, found 0 suspicious.
+2025-11-11 10:58:03,349 - INFO - Configuration loaded from config.json
+2025-11-11 10:58:03,349 - INFO - Starting process scan...
+2025-11-11 10:58:15,164 - INFO - Configuration loaded from config.json
+2025-11-11 10:58:15,164 - INFO - Starting process scan...
+2025-11-11 10:58:42,480 - INFO - Scan complete. Checked 240 processes, found 0 suspicious.

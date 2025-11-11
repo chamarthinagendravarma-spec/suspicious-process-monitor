@@ -1,0 +1,32 @@
+{
+ "monitoring_mode": "single",
+ "scan_interval": 60,
+ "use_whitelist": false,
+ "email_alerts_enabled": true,
+ "whitelist": [
+ "system",
+ "svchost.exe",
+ "explorer.exe",
+ "chrome.exe",
+ "firefox.exe",
+ "python.exe",
+ "code.exe"
+ ],
+ "blacklist": [
+ "malware.exe",
+ "trojan.exe",
+ "keylogger.exe",
+ "ransomware.exe"
+ ],
+ "cpu_threshold": 90,
+ "memory_threshold_mb": 1000,
+ "check_connections": false,
+ "max_connections": 100,
+ "smtp": {
+ "smtp_server": "smtp.gmail.com",
+ "smtp_port": 587,
+ "sender_email": "varma019815@gmail.com",
+ "sender_password": "yjik arjt hihj zbpg",
+ "receiver_email": "oneforallnoobgamer@gmail.com"
+ }
+ }
