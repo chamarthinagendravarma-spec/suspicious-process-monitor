@@ -2,7 +2,7 @@
  "monitoring_mode": "single",
  "scan_interval": 60,
  "use_whitelist": false,
- "email_alerts_enabled": true,
+ "email_alerts_enabled": false,
  "whitelist": [
  "system",
  "svchost.exe",
