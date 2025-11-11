@@ -4,19 +4,16 @@
  ## Installation
  1. Clone the repository:
  ```bash
- git clone https://github.com/YOUR_USERNAME/suspicious-process-monitor.git
- cd suspicious-process-monitor
+       git clone https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor.git
+       cd suspicious-process-monitor
  2. Install dependencies:
- pip install -r requirements.txt
+     pip install -r requirements.txt
  3. Configure settings:
- Copy 
-config.json.example to 
-Edit configuration parameters
+     Copy  config.json.example to Edit configuration parameters
  4. Run the monitor:
- python process_monitor.py
- config.json
-Configuration
- Edit 
+     python process_monitor.py
+     config.json
+Configuration Edit:
 config.json to customize:
  monitoring_mode: "single" or "continuous"
  scan_interval: Seconds between scans
