@@ -157,10 +157,6 @@ webhook_url: https://your-api.example.com/alerts
 webhook_auth: token_xyz123
 ```
 
-## 📚 Documentation
-
-For detailed documentation, see [DOCS.md](DOCS.md)
-
 ## 🧪 Testing
 
 Run the test suite:
